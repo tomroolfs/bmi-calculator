@@ -1,2 +1,2 @@
 # bmi-calculator
-body mass index calculator app focusing on ui design
+Flutter body mass index calculator app focusing on ui design
